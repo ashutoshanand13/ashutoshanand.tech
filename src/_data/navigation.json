@@ -7,11 +7,15 @@
     },
     {
       "text": "GitHub",
-      "url": "https://github.com/hankchizljaw/hylia",
+      "url": "https://github.com/ashutoshanand13",
       "external": true
     },
     {
-      "text": "Example Contact Page",
+      "url": "https://www.linkedin.com/in/ashutoshanand13/",
+      "text": "Linkedin"
+    },
+    {
+      "text": "Let's Connect",
       "url": "/contact",
       "external": false
     }
