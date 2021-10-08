@@ -1,12 +1,12 @@
 ---
 layout: home
-title: A simple starter kit for Eleventy
+title: Just that same old portfolio site
+metaTitle: Ashutosh Anand | Just that same old portfolio site
+metaDesc: Just that same old portfolio site
 postsHeading: Latest posts
 archiveButtonText: See all posts
-metaDesc: 'Hylia is a lightweight Eleventy starter kit to help you to create your own blog or personal website.'
-socialImage: ''
+socialImage: ""
 ---
+Hey there, 
 
-Hylia is a lightweight [Eleventy](https://11ty.io) starter kit with [Netlify CMS](https://www.netlifycms.org/) pre-configured, so that you can one-click install a progressive, accessible blog in minutes. It also gives you a well organised starting point to extend yourself. It’s by [Andy Bell](https://twitter.com/hankchizljaw) and [friends](https://github.com/aarongustafson/hylia/graphs/contributors).
-
-Get started now by [deploying Hylia to Netlify.](https://app.netlify.com/start/deploy?repository=https://github.com/hankchizljaw/hylia&stack=cms)
+This is Ashutosh. I'm an Engineer who loves to learn and build new stuffs. I ace primarily in Backend engineering and growing knowledge of Frontend skills.
