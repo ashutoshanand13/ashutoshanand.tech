@@ -1,13 +1,13 @@
 {
   "showThemeCredit": false,
   "name": "Ashutosh Anand.tech",
-  "shortDesc": "This is Ashutosh. I'm an Engineer who loves to learn and build new stuffs. I ace primarily in Backend engineering and growing knowledge of Frontend skills.",
+  "shortDesc": "AshutoshAnand.tech",
   "url": "http://www.ashutoshanand.tech",
   "authorEmail": "ashutosh.anand13@hotmail.com",
   "authorHandle": "@i_amashu",
   "authorName": "Ashutosh Anand",
   "enableThirdPartyComments": false,
-  "paymentPointer": "$ilp.uphold.com/MggmnFEyQqhk",
+  "paymentPointer": "Abc",
   "faviconPath": "/images/favicon.png",
   "maxPostsPerPage": 4
 }
