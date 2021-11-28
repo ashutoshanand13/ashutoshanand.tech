@@ -13,4 +13,4 @@ Hey there,
 
 This is Ashutosh. I'm an Engineer who loves to learn and build new stuffs. I ace primarily in Backend engineering and growing knowledge of Frontend skills.
 
-You can download my resume from here : Ashutosh's Resume
+You can download my resume from here :
